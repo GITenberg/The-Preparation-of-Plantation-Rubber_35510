@@ -1,0 +1,38 @@
+_repo: The-Preparation-of-Plantation-Rubber_35510
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Stevens, H. P. (Henry Potter)
+    aliases:
+    - Stevens, Henry Potter
+    - Stevens, Henry P.
+    birthdate: 1875
+    deathdate: 1965
+    gutenberg_agent_id: '37725'
+    url: http://www.gutenberg.org/2009/agents/37725
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morgan, Sidney
+    gutenberg_agent_id: '37724'
+    url: http://www.gutenberg.org/2009/agents/37724
+description: ''
+gutenberg_bookshelf:
+- Manufacturing
+- Technology
+gutenberg_issued: '2011-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35510'
+  lccn: agr23000872
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TS'
+- !lcsh 'Rubber'
+title: The Preparation of Plantation Rubber
+url: http://www.gutenberg.org/ebooks/35510
